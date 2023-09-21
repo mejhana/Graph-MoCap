@@ -1,7 +1,7 @@
 <h1 align="center">Q-MoGraph—Quantised Motion Graph</h1>
 
 
-<h2 align="center">Section 1: Video Results For Introduction/h2>
+<h2 align="center">Section 1: Video Results For Introduction</h2>
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 48%;">
@@ -16,8 +16,8 @@
   <p align="center"><strong>Fig:</strong> motion sub-actions.</p>
 </div>
 
-<h2 align="center">Section 2: Video Results For Method/h2>
+<h2 align="center">Section 2: Video Results For Method</h2>
 
-<h2 align="center">Section 3: Video Results For Experiments and Analysis/h2>
+<h2 align="center">Section 3: Video Results For Experiments and Analysis</h2>
 
-<h2 align="center">Section 2: Video Results For Results/h2>
+<h2 align="center">Section 2: Video Results For Results</h2>
