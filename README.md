@@ -3,7 +3,12 @@
 
 <h2 align="center">Section 1: Video Results For Introduction</h2>
 
-<div style="display: flex; justify-content: space-between;">
+| Ctaking a step forward with left leg | taking a step forward with right leg |
+| ----------------------------------- | ----------------------------------- |
+| ![cat](results/sub-motion_1.gif) | ![dog](results/sub-motion_2.gif) |
+
+
+<!-- <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 48%;">
     <img src="results/sub-motion_2.gif" alt="First GIF" width="50%">
     <p align="center"><em>Fig:</em>taking a step forward with left leg </p>
@@ -14,7 +19,7 @@
     <p align="center"><em>Subcaption:</em> taking a step forward with right leg</p>
   </div>
   <p align="center"><strong>Fig:</strong> motion sub-actions.</p>
-</div>
+</div> -->
 
 <h2 align="center">Section 2: Video Results For Method</h2>
 
