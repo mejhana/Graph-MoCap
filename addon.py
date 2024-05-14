@@ -109,7 +109,8 @@ class SampleBezierCurveOperator(bpy.types.Operator):
         return total_points
 
     def create_mesh_from_samples(self, samples):
-        np.save("/Users/meghanarao/Documents/Myriad/Thesis/paths/new_samples.npy", samples)
+        print("samples saved")
+        np.save("/Users/meghanarao/Documents/github(thesis)/paths/new.npy", samples)
         mesh = bpy.data.meshes.new(name="MyMesh")
         mesh_object = bpy.data.objects.new("MyMeshObject", mesh)
         bpy.context.collection.objects.link(mesh_object)
